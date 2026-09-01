@@ -11,7 +11,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_itzgsk_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)] [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gsajankumar3@gmail.com) 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/g-sajan-kumar-011414300/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/g-sajan-kumar-011414300/" height="30" width="40" /></a>
 </p>
