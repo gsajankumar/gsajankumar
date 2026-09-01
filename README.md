@@ -1,14 +1,10 @@
 # 💫 Hi 👋, I'm G Sajan kumar
 **A passionate Engineer || DevOps Engineer || Linux**
 
-Email Me 👉 ✉️ **gsajankumar3@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
 - 🔭 **I’m currently studying on: MIT INSTITUTE KUNDAPURA**
 - 🌱 **I’m currently learning: COMPUTER SCIENCE AND ENGINEERING**
-- 💬 **Ask me about: Collaboration, Tech Support**
 - 📫 **How to reach me: gsajankumar3@gmail.com**
 - 😄 **Pronouns: Mr Sajan kumar**
-- ⚡ **Fun fact: I Love Tech and Tech Love Me**
 
 ## 🔗 I am a Content Creator. 😊😊
 
