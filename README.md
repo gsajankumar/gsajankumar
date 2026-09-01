@@ -6,8 +6,6 @@
   </a>
 </p>
 
-<img src="none" alt="Banner" width="100%" />
-
 ## 📌 About Me
 - 🔭 I’m currently studying on: MIT INSTITUTE KUNDAPURA
 - 🌱 I’m currently learning: COMPUTER SCIENCE AND ENGINEERING
